@@ -124,8 +124,10 @@ nav a:hover {
     object-fit: cover;
 
     border-radius: 50%;
+    box-shadow: 0 0 30px 20px rgba(0,0,0,0.4); 
+    
 
-    border: 5px solid #38bdf8;
+
 }
 
 .sobre,

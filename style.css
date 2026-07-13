@@ -227,7 +227,18 @@ nav a:hover {
     
 }
 #landingpage > p {
+    color: rgb(0, 0, 0);
+}
+#estetica{
+    background-image: url(https://st2.depositphotos.com/1024381/5201/i/450/depositphotos_52019883-stock-photo-woman-getting-rejuvenated-treatment.jpg);
+    background-size: cover;    
+}
+#estetica > p {
     color: black;
+}
+#advocacia{
+    background-image: url(https://img.magnific.com/fotos-premium/advogado-trabalhando-no-escritorio_99433-1966.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;    
 }
 
 

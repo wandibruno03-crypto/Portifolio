@@ -242,6 +242,37 @@ nav a:hover {
     width: 100%;
     height: 100%;   
 }
+#advocacia > p  {
+    color: rgb(255, 255, 255);
+}
+#advocacia > a {
+    color: rgb(47, 24, 131);
+}
+#pet {
+    background-image: url("https://images.pexels.com/photos/8554264/pexels-photo-8554264.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 200px;
+    min-width: 300px;
+}
+#obras {
+    background-image: url("./assets/pexels-sejio402-29181494.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 200px;
+    min-width: 300px;
+}
+#obras > h3 {
+    color: rgb(252, 248, 4);
+}
+#obras > p {
+    color: rgb(15, 15, 15);
+}
+#obras > a {
+    color: rgb(243, 243, 236);
+}
 
 
 

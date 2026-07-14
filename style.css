@@ -273,8 +273,38 @@ nav a:hover {
 #obras > a {
     color: rgb(243, 243, 236);
 }
+.cliente {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
 
+    text-shadow:
+        0 0 5px #00ffff,
+        0 0 10px #00ffff,
+        0 0 20px #00ffff,
+        0 0 40px #008cff,
+        0 0 80px #008cff;
 
+    animation: brilho 1.5s infinite alternate;
+}
+
+@keyframes brilho {
+    from {
+        text-shadow:
+            0 0 0px #00ffff,
+            0 0 20px #00ffff,
+            0 0 40px #008cff;
+    }
+
+    to {
+        text-shadow:
+            0 0 0px #00ffff,
+            0 0 30px #00ffff,
+            0 0 60px #008cff,
+            0 0 80px #008cff;
+    }
+}
 
 
 @media(max-width:900px) {

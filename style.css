@@ -237,8 +237,10 @@ nav a:hover {
     color: black;
 }
 #advocacia{
-    background-image: url(https://img.magnific.com/fotos-premium/advogado-trabalhando-no-escritorio_99433-1966.jpg?semt=ais_hybrid&w=740&q=80);
-    background-size: cover;    
+    background-image: url(https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1920&q=80);
+    background-size: cover; 
+    width: 100%;
+    height: 100%;   
 }
 
 
